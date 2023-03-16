@@ -23,13 +23,13 @@ The page is split into three sections:
 * Domestic day trains per country:
 
   [France](#france) • [Italy](#italy) • [Poland](#poland) •
-  [UK](#united_kingdom) 
+  [UK](#united-kingdom) 
 
 * Cross-border day trains. (TODO)
 
 * Overnight sleeper services. (TODO)
 
-* [International booking offices](#international_booking_offices) – what a
+* [International booking offices](#international-booking-offices) – what a
   booking office in your own country may be able to do for you.
 
 
