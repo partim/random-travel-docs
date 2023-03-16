@@ -6,8 +6,10 @@ to collect information on how to purchase such reservations and at what
 cost.
 
 This page is currently woefully incomplete. More countries will be added
-as I explore them or someone provides information – ideally as a Github
-issue here.
+as I explore them or someone provides information – ideally as a [Github
+issue](https://github.com/partim/random-travel-docs/issues/new)
+here, alternatively via email at [hn@nvnc.de](mailto:hn@nvnc.de)
+or Mastodon at [@partim@social.tchncs.de](https://social.tchncs.de/@partim).
 
 # Italy
 
