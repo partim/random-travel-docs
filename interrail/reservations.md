@@ -14,7 +14,7 @@ or Mastodon at [@partim@social.tchncs.de](https://social.tchncs.de/@partim).
 Please also consult the
 [Interrail/Eurail reservation
 guide](https://www.seat61.com/interrail-and-eurail-reservations.htm) by
-the The Main in Seat 61.
+the The Man in Seat 61.
 
 ## Contents
 
@@ -46,12 +46,12 @@ when a train is sold out for Interrail.
 
 Reservations can be purchased online from
 
-* [Belgian Railways
-  SNCB](https://travel.b-europe.com/eurail-ge/en/booking-tgv#TravelWish)
+* [Belgian Railways SNCB
+  online](https://travel.b-europe.com/eurail-ge/en/booking-tgv#TravelWish)
   for TGV trains only (!) with a booking fee of 4 euros. You don’t need an
   account but you do need your pass cover number. For mobile passes, you
   can [generate a cover number
-  online](https://www.eurail.com/en/book-reservations#/generatePassCoverNumber)
+  online](https://www.eurail.com/en/book-reservations#/generatePassCoverNumber).
 * [Interrail online](https://www.interrail.eu/en/book-reservations#/) at
   a surcharge of 2 euros per reservation. You need an account and have to
   register your pass.
