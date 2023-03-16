@@ -46,13 +46,13 @@ when a train is sold out for Interrail.
 
 Reservations can be purchased online from
 
-* [Belgian Railways SNCB
-  online](https://travel.b-europe.com/eurail-ge/en/booking-tgv#TravelWish)
+* [Belgian Railways
+  SNCB](https://travel.b-europe.com/eurail-ge/en/booking-tgv#TravelWish)
   for TGV trains only (!) with a booking fee of 4 euros. You don’t need an
   account but you do need your pass cover number. For mobile passes, you
   can [generate a cover number
   online](https://www.eurail.com/en/book-reservations#/generatePassCoverNumber).
-* [Interrail online](https://www.interrail.eu/en/book-reservations#/) at
+* [Interrail](https://www.interrail.eu/en/book-reservations#/) at
   a surcharge of 2 euros per reservation. You need an account and have to
   register your pass.
 
@@ -76,10 +76,10 @@ Reservations cost 3 euros for Intercitys and 10 euros for Frecce.
 
 Reservations can be purchased online from
 
-* [ÖBB online](https://shop.oebbtickets.at) without a surcharge. Change
+* [ÖBB](https://shop.oebbtickets.at) without a surcharge. Change
   the discount for traveller to ‘Interrail / Eurail - Globalpass’ and
   select ‘one-way tickets and day tickets.’ You do not need an account.
-* [Interrail online](https://www.interrail.eu/en/book-reservations#/) at
+* [Interrail](https://www.interrail.eu/en/book-reservations#/) at
   a surcharge of 2 euros per reservation. You need an account and have to
   register your pass.
 
@@ -102,7 +102,7 @@ Reservations can be purchased online from
   person and train (about 3 euros). You need an account. Cross-border
   services into Czechia are also available. Cross-border services into
   Germany are not.
-* [Interrail online](https://www.interrail.eu/en/book-reservations#/) but
+* [Interrail](https://www.interrail.eu/en/book-reservations#/) but
   only as paper tickets with a lead time of 6 days.
 
 Reservations can be purchased from Polish booking offices at no cost (XXX
