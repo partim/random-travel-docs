@@ -11,7 +11,27 @@ issue](https://github.com/partim/random-travel-docs/issues/new)
 here, alternatively via email at [hn@nvnc.de](mailto:hn@nvnc.de)
 or Mastodon at [@partim@social.tchncs.de](https://social.tchncs.de/@partim).
 
-# Italy
+Please also consult the
+[Interrail/Eurail reservation
+guide](https://www.seat61.com/interrail-and-eurail-reservations.htm) by
+the The Main in Seat 61.
+
+## Contents
+
+The page is split into three sections:
+
+* Domestic day trains per country:
+
+  [Italy](#italy) • [Poland](#poland) • [UK](#united_kingdom) 
+
+* Cross-border day trains. (TODO)
+
+* Overnight sleeper services. (TODO)
+
+
+## Domestic Day Trains
+
+### Italy
 
 Reservations are mandatory for all Trenitalia long distance trains:
 Intercity, Eurocity, and the variously coloured Frecce. Reservations are
@@ -32,7 +52,7 @@ Reservations can be purchased online from
 Reservations can be purchased from booking offices at Italian stations.
 They are _not_ available from ticket machines.
 
-# Poland
+### Poland
 
 Reservations are mandatory for all PKP Intercity trains (that’s the
 company, not the train type), i.e., all long distance trains.
@@ -54,4 +74,19 @@ Reservations can be purchased online from
 Reservations can be purchased from Polish booking offices at no cost (XXX
 Is that correct?). 
 They are _not_ available from ticket machines.
+
+### United Kingdom
+
+Reservations are not mandatory for day trains despite information provided
+otherwise. This has been confirmed by booking office and on-board staff.
+
+If you still want one, reservations can be purchased online from
+
+* [GWR](https://www.gwr.com/) free of charge for all train operators. You
+  need to register an account and can then make reservations from the ‘My
+  Bookings’ section.
+* [LNER](https://www.lner.co.uk/travel-information/make-a-reservation/)
+  for LNER trains only.
+
+You can also get seat reservations for free from any booking office.
 
