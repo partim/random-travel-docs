@@ -28,6 +28,9 @@ The page is split into three sections:
 
 * Overnight sleeper services. (TODO)
 
+* [International booking offices](#international_booking_offices) – what a
+  booking office in your own country may be able to do for you.
+
 
 ## Domestic Day Trains
 
@@ -89,4 +92,24 @@ If you still want one, reservations can be purchased online from
   for LNER trains only.
 
 You can also get seat reservations for free from any booking office.
+
+
+## International Booking Offices
+
+Booking offices in several countries may be able to sell reservations for
+services abroad. In general, availability and price may differ from online
+services for no apparent reason.
+
+### The Netherlands: NS International
+
+NS International has offices in Amsterdam Centraal, Arnhem Centraal,
+Rotterdam Centraal, Schiphol Airport, and Utrecht Centraal. They charge an
+additional EUR 7.50 per person up to EUR 22.50 per booking.
+
+### Switzerland: SBB
+
+Swiss booking offices can sell reservations without a booking fee for at
+least the following countries:
+
+France • Germany • Italy • Poland
 
