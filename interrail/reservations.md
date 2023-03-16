@@ -22,7 +22,8 @@ The page is split into three sections:
 
 * Domestic day trains per country:
 
-  [Italy](#italy) • [Poland](#poland) • [UK](#united_kingdom) 
+  [France](#france) • [Italy](#italy) • [Poland](#poland) •
+  [UK](#united_kingdom) 
 
 * Cross-border day trains. (TODO)
 
@@ -33,6 +34,36 @@ The page is split into three sections:
 
 
 ## Domestic Day Trains
+
+### France
+
+Reservations are mandatory for all TGV and Intercities services and for
+select TER services. For TGVs and Intercities, Interrail/Eurail
+reservations are sold in two categories. A limited number of reservations
+is available for 10 EUR after which 20 EUR are charged. But even the
+expensive category is limited – regular tickets may still be available
+when a train is sold out for Interrail.
+
+Reservations can be purchased online from
+
+* [Belgian Railways
+  SNCB](https://travel.b-europe.com/eurail-ge/en/booking-tgv#TravelWish)
+  for TGV trains only (!) with a booking fee of 4 euros. You don’t need an
+  account but you do need your pass cover number. For mobile passes, you
+  can [generate a cover number
+  online](https://www.eurail.com/en/book-reservations#/generatePassCoverNumber)
+* [Interrail online](https://www.interrail.eu/en/book-reservations#/) at
+  a surcharge of 2 euros per reservation. You need an account and have to
+  register your pass.
+
+  Unclear: Can you buy reservations for TERs from Interrail?
+
+Reservations can also be bought from Grand Lignes ticket machines and
+SNCF booking offices.
+
+Note that it seems that the two online services occasionally have differing
+prices and availability for the same train. So it may also be that those
+differ with machines and booking offices (domestic and abroad) again.
 
 ### Italy
 
