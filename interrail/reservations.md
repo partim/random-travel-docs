@@ -93,6 +93,17 @@ Reservations can be purchased online from
 Reservations can be purchased from booking offices at Italian stations.
 They are _not_ available from ticket machines.
 
+### Norway
+
+Reservations are mandatory on all long distance services with the
+exception of the Oslo to Gothenburg service.
+
+Reservations can not be purchased online or on ticket machines. You have
+to either call Entur, the organization that sells railway tickets in
+Norway, at [+47 61 27 90 88](tel:+4761279088) or go to one of their 
+ticket offices, available in Bergen, Stavanger, Trondheim, Oslo, and Olso
+airport.
+
 ### Poland
 
 Reservations are mandatory for all PKP Intercity trains (that’s the
