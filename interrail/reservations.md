@@ -57,11 +57,15 @@ Reservations can be purchased online from
   register your pass.
 
   Unclear: Can you buy reservations for TERs from Interrail?
+* [Trainplanet](https://trainplanet.com/) sells reservations for TGVs and
+  Intercities at what looks like a 10% surcharge. Don’t forget to switch
+  the currency to euros! You need a pass cover number. They do not, however,
+  seem to be able to sell reservations for TER services.
 
 Reservations can also be bought from Grand Lignes ticket machines and
 SNCF booking offices.
 
-Note that it seems that the two online services occasionally have differing
+Note that it seems that the online services occasionally have differing
 prices and availability for the same train. So it may also be that those
 differ with machines and booking offices (domestic and abroad) again.
 
@@ -82,6 +86,9 @@ Reservations can be purchased online from
 * [Interrail](https://www.interrail.eu/en/book-reservations#/) at
   a surcharge of 2 euros per reservation. You need an account and have to
   register your pass.
+* [Trainplanet](https://trainplanet.com/) sells reservations for TGVs and
+  Intercities at what looks like a 10% surcharge. Don’t forget to switch
+  the currency to euros! You need a pass cover number.
 
 Reservations can be purchased from booking offices at Italian stations.
 They are _not_ available from ticket machines.
@@ -99,9 +106,14 @@ Reservations can be purchased online from
   Thus, you need to book every train separately. Cross border services are
   not available.
 * [Czech railways ČD](https://www.cd.cz/) at a cost of 73 CZK per
-  person and train (about 3 euros). You need an account. Cross-border
+  person and train (about 3 euros) for IC and TLK trains. They cannot sell
+  reservations for EIP trains. You need an account. Cross-border
   services into Czechia are also available. Cross-border services into
   Germany are not.
+* [Trainplanet](https://trainplanet.com/) sells reservations for all trains,
+  including cross border services into Czechia and Germany. IC and TLK
+  services cost 5 euros, EIP services 11 euros. Don’t forget to switch
+  the currency to euros! You need a pass cover number.
 * [Interrail](https://www.interrail.eu/en/book-reservations#/) but
   only as paper tickets with a lead time of 6 days.
 
