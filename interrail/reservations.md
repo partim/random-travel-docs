@@ -148,6 +148,23 @@ If you still want one, reservations can be purchased online from
 You can also get seat reservations for free from any booking office.
 
 
+## Cross-border Day Trains
+
+### ICE Netherlands—Germany
+
+ICE services on the route Amsterdam—Cologne—Frankfurt (—Basel) will be
+mandatory to reserve between June 17 and August 18, 2023.
+
+Reservations can be purchased online from
+
+* [ÖBB](https://shop.oebbtickets.at) for 3 EUR per reservation,
+* [Czech railways ČD](https://www.cd.cz/) for 73 CZK per reservation
+  (about 3 EUR),
+* [Trainplanet](https://trainplanet.com/) for 5 EUR per reservation,
+* [Interrail](https://www.interrail.eu/en/book-reservations#/) for
+  of 8 EUR per reservation.
+
+
 ## International Booking Offices
 
 Booking offices in several countries may be able to sell reservations for
