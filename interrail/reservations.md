@@ -27,7 +27,7 @@ The page is split into three sections:
 
 * Cross-border day trains:
 
-  [ICE Germany/Netherlands](#ice-germany-netherlands)
+  [ICE Germany/Netherlands](#ice-germanynetherlands)
 
 * Overnight sleeper services. (TODO)
 
