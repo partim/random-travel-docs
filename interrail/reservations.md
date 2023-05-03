@@ -25,7 +25,9 @@ The page is split into three sections:
   [France](#france) • [Italy](#italy) • [Poland](#poland) •
   [UK](#united-kingdom) 
 
-* Cross-border day trains. (TODO)
+* Cross-border day trains:
+
+  [ICE Germany/Netherlands](#ice-germany-netherlands)
 
 * Overnight sleeper services. (TODO)
 
@@ -150,7 +152,7 @@ You can also get seat reservations for free from any booking office.
 
 ## Cross-border Day Trains
 
-### ICE Netherlands—Germany
+### ICE Germany/Netherlands
 
 ICE services on the route Amsterdam—Cologne—Frankfurt (—Basel) will be
 mandatory to reserve between June 17 and August 18, 2023.
